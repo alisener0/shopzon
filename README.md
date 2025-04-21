@@ -1,23 +1,38 @@
-Teknolojiler ve Kütüphaneler
-Bu projede aşağıdaki kütüphaneler kullanılmıştır:
+# 🛍️ Shopzon - E-commerce Web App
 
-react-router-dom: Sayfalar arası yönlendirme işlemleri için kullanılmıştır.
+Shopzon is a modern and responsive e-commerce web application built with React. It allows users to browse products, view product details, and add items to their shopping cart, creating a smooth and enjoyable shopping experience.
+-------
 
-react-icons: İkonları kolayca entegre etmek için kullanılmıştır.
+🚀 Features
 
-react-paginate: Verileri sayfalara ayırarak gösterme işlevselliği sağlar.
 
-tailwind: Hızlı ve özelleştirilebilir bir CSS framework'üdür. Modern ve duyarlı bir tasarım sağlar.
+🛒 Browse and filter products
 
-react-redux: Uygulama genelinde durumu yönetmek için kullanılmıştır.
+📦 View product details
 
-@reduxjs/toolkit: Redux işlemlerini kolaylaştıran araçları içerir.
+🛍️ Add items to the shopping cart
 
-react-slick: Dinamik kaydırıcılar ve galeri bileşenleri oluşturmak için kullanılmıştır.
+🎨 Fully responsive design for mobile and desktop
 
-slick-carousel: Kaydırıcı bileşenlerinin stil ve işlevselliğini destekler.
+🔍 Search functionality to find products quickly
 
-Proje, bu kütüphaneleri kullanarak modern, dinamik ve kullanıcı dostu bir deneyim sunmayı hedeflemektedir.
+💳 Simulated checkout process for a seamless shopping experience
+
+*-----*
+
+
+🛠️ Technologies Used
+
+
+React – Component-based UI for building reusable components
+
+React Router – For page routing
+
+CSS (or Tailwind CSS) – For styling and responsive design
+
+LocalStorage – For persisting the cart data in the browser
+
+Redux (optional) – For state management, if used
 
 ![shopzon](https://github.com/user-attachments/assets/eb1011f5-9a1d-4520-832a-2846a284f363)
 # shopzon
